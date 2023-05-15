@@ -1,5 +1,6 @@
   #ifndef GLOBALCONSTANTS_H
 #define GLOBALCONSTANTS_H
+#include "globalConstantsDefinition.h"
 /*creation.must be a static const */
  static const struct outer constants={
     .a=222,
